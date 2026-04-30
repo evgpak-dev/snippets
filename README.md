@@ -1,2 +1,2 @@
-# snippets
-A collection of snippets
+# Tips
+> A collection of tips
